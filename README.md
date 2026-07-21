@@ -1,8 +1,14 @@
-# Paint
+# Practice Projects
 
-A simple Apple-style Paint web app built with plain HTML, CSS, and JavaScript.
+This repository stores small practice apps.
 
-## Features
+## Paint
+
+The Paint app lives in `Practice/paint`.
+
+It is a simple Apple-style Paint web app built with plain HTML, CSS, and JavaScript.
+
+### Features
 
 - Pencil
 - Eraser
@@ -14,6 +20,6 @@ A simple Apple-style Paint web app built with plain HTML, CSS, and JavaScript.
 - Clear canvas
 - PNG save
 
-## Run locally
+### Run locally
 
-Open `index.html` in a browser, or serve the folder locally and visit the local URL.
+Open `Practice/paint/index.html` in a browser, or serve the repository locally and visit that file path.
